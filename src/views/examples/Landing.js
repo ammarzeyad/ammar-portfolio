@@ -24,7 +24,7 @@ import ill2 from "assets/img/ill/ill-2.svg";
 import team1 from "assets/img/theme/team-1-800x800.jpg";
 import team2 from "assets/img/theme/team-2-800x800.jpg";
 import team3 from "assets/img/theme/team-3-800x800.jpg";
-import team4 from "assets/img/theme/team-4-800x800.jpg";
+import team4 from "assets/img/theme/ammar.jpeg";
 
 // reactstrap components
 import {
@@ -81,13 +81,12 @@ class Landing extends React.Component {
                   <Row>
                     <Col lg="6">
                       <h1 className="display-3 text-white">
-                        A beautiful Design System {" "}
-                        <span>completed with examples</span>
+                         Front-End Div {" "}
+                       
                       </h1>
                       <p className="lead text-white">
-                        The design system comes with four pre-built pages to
-                        help you get started faster. You can change the text and
-                        images and you're good to go.
+                        during this course i want to be an a Front-End div because i enjoying 
+                        when i design an a UI
                       </p>
                       <div className="btn-wrapper">
                         <Button
@@ -148,12 +147,10 @@ class Landing extends React.Component {
                             <i className="ni ni-check-bold" />
                           </div>
                           <h6 className="text-primary text-uppercase">
-                            Download Argon
+                            Salmon Cookis
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                            This project i take it in 201 Labs
                           </p>
                           <div>
                             <Badge color="primary" pill className="mr-1">
@@ -184,12 +181,11 @@ class Landing extends React.Component {
                             <i className="ni ni-istanbul" />
                           </div>
                           <h6 className="text-success text-uppercase">
-                            Build Something
+                            Bus Mall
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                           how to re-view a many product and let the user to choise the 
+                           best of them for himn
                           </p>
                           <div>
                             <Badge color="success" pill className="mr-1">
@@ -219,7 +215,7 @@ class Landing extends React.Component {
                           <div className="icon icon-shape icon-shape-warning rounded-circle mb-4">
                             <i className="ni ni-planet" />
                           </div>
-                          <h6 className="text-warning text-uppercase">
+                          {/* <h6 className="text-warning text-uppercase">
                             Prepare Launch
                           </h6>
                           <p className="description mt-3">
@@ -237,15 +233,15 @@ class Landing extends React.Component {
                             <Badge color="warning" pill className="mr-1">
                               launch
                             </Badge>
-                          </div>
-                          <Button
+                          </div> */}
+                          {/* <Button
                             className="mt-4"
                             color="warning"
                             href="#pablo"
                             onClick={e => e.preventDefault()}
                           >
                             Learn more
-                          </Button>
+                          </Button> */}
                         </CardBody>
                       </Card>
                     </Col>

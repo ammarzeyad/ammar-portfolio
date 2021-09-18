@@ -119,7 +119,7 @@ class CardsFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="github"
-                  href="https://github.com/creativetimofficial"
+                  href="https://github.com/ammarzeyad"
                   id="tooltip495507257"
                   target="_blank"
                 >
@@ -174,7 +174,7 @@ class CardsFooter extends React.Component {
                   </NavItem>
                   <NavItem>
                     <NavLink
-                      href="https://github.com/creativetimofficial/argon-design-system-react/blob/main/LICENSE.md"
+                      href="https://github.com/ammarzeyad"
                       target="_blank"
                     >
                       MIT License
